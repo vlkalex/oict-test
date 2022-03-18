@@ -1,0 +1,13 @@
+{
+    "main_title": "Parking zones in Prague",
+    "use_button": "Use",
+    "api_key_label": "API key",
+    "link_button": "Payment link",
+    "detail_title": "Parking detail",
+    "detail_label_type": "Parking zone type: ",
+    "detail_label_spaces": "Number of parking spaces: ",
+    "detail_label_spaces_short": "Number of spaces: ",
+    "detail_label_notfound": "Wrong parking zone ID",
+    "correct_api_label": "API Connected",
+    "wrong_api_label": "Wrong API Key. Showing mock data."
+}

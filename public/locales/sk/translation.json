@@ -1,0 +1,13 @@
+{
+    "main_title": "Parkovacie zóny v centre Prahy",
+    "use_button": "Použiť",
+    "api_key_label": "API klúč",
+    "link_button": "Link na zaplatenie",
+    "detail_title": "Detail parkovania",
+    "detail_label_type": "Typ parkovacej zóny: ",
+    "detail_label_spaces": "Počet parkovacích miest: ",
+    "detail_label_spaces_short": "Počet miest: ",
+    "detail_label_notfound": "Zlé ID parkovacej zóny",
+    "correct_api_label": "API pripojené",
+    "wrong_api_label": "Zlý API kľúč. Sú zobrazované mock data."
+}
